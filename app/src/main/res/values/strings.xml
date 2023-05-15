@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">TodoList</string>
+
+    <string name="register">Registrarse</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="name">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="signup">Regístrate</string>
+
+
 </resources>
